@@ -1,0 +1,135 @@
+create database db_academico
+use db_academico
+
+create table Tcarrera(
+codigo_carrera int primary key,
+nombre_carrera varchar(max),
+
+
+)
+
+create table Talumno(
+documento int primary key,
+nombre varchar(max),
+apellidos varchar(max),
+direccion  varchar(max),
+codigo_carrera int foreign key (codigo_carrera) references Tcarrera (codigo_carrera),
+foto Image,
+)
+
+create table Tcurso(
+codigo int primary key,
+descripcion varchar(max),
+)
+
+
+create table Tmatricula(
+codigo_matricula int primary key,
+documento int foreign key (documento) references Talumno (documento),
+codigo int foreign key (codigo) references Tcurso (codigo)
+)
+
+
+/*************PROCEDIMIENTO ALMACENADO**********************/
+create procedure spCarrera
+@metodo int,
+@codigo_carrera int,
+@nombre_carrera varchar(max)
+
+as
+	begin
+	  if @metodo=1
+	    begin
+		  insert into Tcarrera    values (@codigo_carrera,@nombre_carrera)
+		end
+	  if @metodo=2
+	    begin
+		  update Tcarrera set nombre_carrera=@nombre_carrera where codigo_carrera=@codigo_carrera 
+		end
+     if @metodo=3
+	   begin
+	     delete Tcarrera where codigo_carrera=@codigo_carrera
+       end
+	 if @metodo=4
+	   begin
+	     select * from Tcarrera
+	   end
+	end
+	/**********************************/
+  
+  create procedure spAlumno
+   @metodo int,
+   @documento int ,
+   @nombre varchar(max),
+   @apellidos varchar(max),
+   @direccion varchar(max),
+   @codigo_carrera int,
+    @foto Image
+   as
+   begin
+     if @metodo=1
+	 begin
+	   insert into Talumno values (@documento,@nombre,@apellidos,@direccion,@codigo_carrera,@foto)
+	 end
+	 if @metodo=2
+	 begin
+	   update Talumno set nombre=@nombre,apellidos=@apellidos,direccion=@direccion,codigo_carrera=@codigo_carrera,foto=@foto where documento=@documento
+	 end
+	 if @metodo=3
+	  begin
+	  delete Talumno where documento=@documento
+	  end
+	 if @metodo=4
+	 begin
+	  select * from Talumno
+	 end
+   end
+   /************************************/
+   create procedure spTcurso
+   @metodo int,
+   @codigo int,
+   @descripcion varchar(max)
+   as
+   begin
+    if @metodo=1
+	begin
+	 insert into Tcurso values (@codigo,@descripcion)
+	end
+	if @metodo=2
+	begin
+	update Tcurso set descripcion=@descripcion where codigo=@codigo
+	end
+	if @metodo=3
+	begin
+	 delete Tcurso where codigo=@codigo
+	end
+	 if @metodo=4
+	 begin
+	  select * from Tcurso
+	 end
+   end
+   /***********************************************/
+  create procedure spTmatricula
+  @metodo int,
+  @codigo_matricula int ,
+  @documento int, 
+  @codigo int 
+   as
+   begin
+   if @metodo=1
+     begin
+	   insert into Tmatricula values (@codigo_matricula,@documento,@codigo)
+	 end
+	if @metodo=2
+	begin
+	update Tmatricula set documento=@documento,codigo=@codigo where codigo_matricula=@codigo_matricula
+	end
+	if @metodo=3
+	begin
+	delete Tmatricula where codigo_matricula=@codigo_matricula
+	end
+	if @metodo=4
+	begin
+	select * from Tmatricula
+	end
+   end

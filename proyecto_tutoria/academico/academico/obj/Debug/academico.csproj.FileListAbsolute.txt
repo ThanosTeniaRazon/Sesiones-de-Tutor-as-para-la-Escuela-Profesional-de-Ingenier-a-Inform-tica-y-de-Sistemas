@@ -1,0 +1,158 @@
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.exe.config
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.exe
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.pdb
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.csprojAssemblyReference.cache
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Properties.Resources.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.csproj.GenerateResource.cache
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.csproj.CoreCompileInputs.cache
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.exe
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.pdb
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.exe.config
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.exe
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.pdb
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.exe
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.pdb
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.csprojResolveAssemblyReference.cache
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Form1.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmAlumno.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Properties.Resources.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.csproj.GenerateResource.Cache
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Frm_reporteCarrera.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmCarrera.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmAlumno.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmCurso.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmMatricula.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.exe.config
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.exe
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.pdb
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.exe
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\bin\Debug\academico.pdb
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.csprojResolveAssemblyReference.cache
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmCarrera.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmAlumno.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmCurso.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmMatricula.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Properties.Resources.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.csproj.GenerateResource.Cache
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Form_carrera_reporte.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Frm_alumno_reporte.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Frm_curso_reporte.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.Frm_matricula_reporte.resources
+G:\tercer semestre\profe milton\Taller de Programacion\29octubre\academico\academico\obj\Debug\academico.FrmMenu.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.csprojAssemblyReference.cache
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Form_carrera_reporte.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmMenu.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Frm_alumno_reporte.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Frm_curso_reporte.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Frm_matricula_reporte.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmCarrera.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmAlumno.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmCurso.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmMatricula.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Properties.Resources.resources
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.csproj.GenerateResource.cache
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.csproj.CoreCompileInputs.cache
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.exe
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.pdb
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\academico.exe.config
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\academico.exe
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\academico.pdb
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.Shared.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\FlashControlV71.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\ShockwaveFlashObjects.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\stdole.dll
+E:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.csproj.CopyComplete
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\academico.exe.config
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.exe
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.pdb
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\academico.exe
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\bin\Debug\academico.pdb
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.csprojResolveAssemblyReference.cache
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Form_carrera_reporte.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmMenu.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Frm_alumno_reporte.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Frm_curso_reporte.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Frm_matricula_reporte.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmCarrera.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmAlumno.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmCurso.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.FrmMatricula.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.Properties.Resources.resources
+H:\tercer semestre\profe milton\Taller de Programacion\29octubre\Nueva carpeta\academico\academico\obj\Debug\academico.csproj.GenerateResource.Cache
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\academico.exe.config
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.exe
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.pdb
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\academico.exe
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\academico.pdb
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.csprojResolveAssemblyReference.cache
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.Form_carrera_reporte.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.FrmMenu.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.Frm_alumno_reporte.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.Frm_curso_reporte.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.Frm_matricula_reporte.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.FrmCarrera.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.FrmAlumno.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.FrmCurso.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.FrmMatricula.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.Properties.Resources.resources
+C:\Users\DAVID ALEX\Downloads\jorge\proyecto-ode\academico\academico\obj\Debug\academico.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.Form_carrera_reporte.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.FrmMenu.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.Frm_alumno_reporte.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.Frm_curso_reporte.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.Frm_matricula_reporte.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.FrmCarrera.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.FrmAlumno.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.FrmCurso.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.FrmMatricula.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.Properties.Resources.resources
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\academico.exe.config
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\academico.exe
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\academico.pdb
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\bin\Debug\stdole.dll
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.csproj.CopyComplete
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.exe
+C:\Users\HP\Downloads\ode\proyecto-ode\academico\academico\obj\Debug\academico.pdb
